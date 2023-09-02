@@ -41,5 +41,3 @@ function ColetarDados() {
                 console.log('programa encerrado.')
             }
         }
-
-    
